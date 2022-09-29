@@ -1,0 +1,15 @@
+/Users/ruslanshaymukhanov/EX/HelloConsole001/bin/Debug/net7.0/HelloConsole001
+/Users/ruslanshaymukhanov/EX/HelloConsole001/bin/Debug/net7.0/HelloConsole001.deps.json
+/Users/ruslanshaymukhanov/EX/HelloConsole001/bin/Debug/net7.0/HelloConsole001.runtimeconfig.json
+/Users/ruslanshaymukhanov/EX/HelloConsole001/bin/Debug/net7.0/HelloConsole001.dll
+/Users/ruslanshaymukhanov/EX/HelloConsole001/bin/Debug/net7.0/HelloConsole001.pdb
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.csproj.AssemblyReference.cache
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.AssemblyInfoInputs.cache
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.AssemblyInfo.cs
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.csproj.CoreCompileInputs.cache
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.dll
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/refint/HelloConsole001.dll
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.pdb
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/HelloConsole001.genruntimeconfig.cache
+/Users/ruslanshaymukhanov/EX/HelloConsole001/obj/Debug/net7.0/ref/HelloConsole001.dll
